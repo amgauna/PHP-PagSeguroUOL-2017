@@ -1,3 +1,3 @@
 # PHP-PagSeguroUOL
 
-Exemplos de Código PHP de Livros
+Exemplos de Código PHP 
